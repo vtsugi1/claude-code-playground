@@ -1,0 +1,40 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+dist/
+build/
+
+# React
+todo-app/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+*.so
+.Python
+env/
+venv/
+ENV/
+.env
+.venv
+pip-log.txt
+pip-delete-this-directory.txt
+*.png
+*.csv
+
+# IDE/Editor
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
